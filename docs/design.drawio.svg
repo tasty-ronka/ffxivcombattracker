@@ -1,0 +1,59 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="424px" height="1078px" viewBox="-0.5 -0.5 424 1078" content="&lt;mxfile&gt;&lt;diagram id=&quot;_cLe-Eimcu2gvWZjKmUi&quot; name=&quot;Page-1&quot;&gt;3ZfRbpswFIafJpcgMISQyyZttkmbNi2adlm5YMCKjZFtmmRPv2MwCQSqtSoXUy9a8G8b2/93zoEsgi0/fZK4Kr6JlLAF8tLTIrhfIOQg5MPFKOdWCcOwFXJJ01byr8Ke/iFW9Kxa05SowUAtBNO0GoqJKEuS6IGGpRTH4bBMsOGqFc7JSNgnmI3V3zTVRavGS++qfyY0L7qVfc/2cNwNtoIqcCqOPSl4WARbKYRu7/hpS5gxr/Olnbd7ofeyMUlK/ZoJqJ3wjFltz7Zl1MxF3lbwqtZE2o3qc3d62HNlbilvbNo8E6kpmPMVPxH2QyiqqSih/0loLTgMYKZjg5NDLkVdplvBhIT+lGS4Zrr3hDtGczNTiwpUrKoWXkZPBPa7aRa861SvU+C+0NqgvzMHRbskLR0K7JVTlbmbMaxNy01gM2i39I0dKPZje1lFkQvj4GnWC9gMOb3op3+hBOFNBCdanmGInRCvLFgb2Ut/3baP1ziJ7FOLXoh0GraRmV+efIUHN5bfNMtgxPJnrQxJYz0p0xHIY0E12Vc4Me0jpCp4UGgOz7/3O2w9ngl4AOHwMnCLzUIcDe/oXuJiBr/X0dDv0BvZHXS51vfb97qR73E8HDn+Vo/nsOA25MYW+NGEBesZDFiODPi+h/YvTRkEBZToWzvgmCbhlZbiQLpCUIqSTAVORhm7GdOz7jasOE1Ts8xmyvKm8Jgi0pSNOVyPh65HY9enTA9mMD36d9T99yW6rpjAqXukB8pJSrErZA6yaVembaq44BxqONzpouZPcM3MH2DZfTHFPX40lf2R0bI+uerZTPeR51UnZ7J7vhp/rR1dxi1H7MMJ9nNUnNUHYP+K1/Pai9r/gRfPCW59A278cg7QRNKi94OLPwY45BpWGYViKi2xFGuTrg1R0yQKFiPSUQco36rJSvOphauKEYcK5aiz0oQ7FYDPhOQOSBwnTpOpDvCfNVPRAPh6NQYeTQCP3g/c/wipKuEDEt6juHRLog1EpYg2TJMaXrbnjEhJ1Yy8/JvPucAN43Ftjd04nILmLt+eqOaQl19bTV/vN2vw8Bc=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <image x="12.5" y="515.5" width="61" height="61" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZlcnNpb249IjEuMSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PHBhdGggZD0ibSAwIDAgTCAxMCAxMCBMIDAgMTAgTCAxMCAwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+" preserveAspectRatio="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="0" y="585" width="89" height="15" stroke-width="0"/>
+            <text x="43" y="594.5">
+                Client Computer
+            </text>
+        </g>
+        <rect x="103" y="37" width="320" height="1040" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 318px; height: 1px; padding-top: 34px; margin-left: 104px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Rust Backend
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="263" y="34" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Rust Backend
+                </text>
+            </switch>
+        </g>
+        <rect x="113" y="47" width="160" height="90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="123" y="57" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 72px; margin-left: 124px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                OS Utilities
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="153" y="76" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    OS Utiliti...
+                </text>
+            </switch>
+        </g>
+        <image x="182.5" y="51.5" width="40" height="40" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZlcnNpb249IjEuMSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PHBhdGggZD0ibSAwIDAgTCAxMCAxMCBMIDAgMTAgTCAxMCAwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+" preserveAspectRatio="none"/>
+        <image x="232.5" y="55.5" width="32" height="32" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZlcnNpb249IjEuMSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PHBhdGggZD0ibSAwIDAgTCAxMCAxMCBMIDAgMTAgTCAxMCAwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+" preserveAspectRatio="none"/>
+        <image x="184.5" y="93.5" width="36" height="36" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZlcnNpb249IjEuMSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PHBhdGggZD0ibSAwIDAgTCAxMCAxMCBMIDAgMTAgTCAxMCAwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+" preserveAspectRatio="none"/>
+        <image x="302.5" y="-0.020000000000000018" width="48.84" height="36.52" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZlcnNpb249IjEuMSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PHBhdGggZD0ibSAwIDAgTCAxMCAxMCBMIDAgMTAgTCAxMCAwIiBzdHJva2U9IiMwMDAiIGZpbGw9InRyYW5zcGFyZW50Ii8+PC9zdmc+" preserveAspectRatio="none"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
