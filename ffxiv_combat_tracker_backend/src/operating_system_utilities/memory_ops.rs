@@ -5,6 +5,9 @@ use std::time::Duration;
 use sysinfo::{Pid, Process, ProcessExt, System, SystemExt};
 use tokio::time::sleep;
 
+// Returns the process matching "XIV" in the name with the highest memory usage; the
+// return is a HashMap with the process PID and the process itself.
+
 pub async fn memory_parser() {
     let mut _sys: System = System::new_all();
 
@@ -15,38 +18,22 @@ pub async fn memory_parser() {
 
         for (pid, process) in _sys.processes() {
             if process.name().to_uppercase().contains("XIV") {
-                xiv_processes.insert(pid, process);
+                xiv_processes.insert(&pid, &process);
             }
         }
 
-        println!(
-            "Process HashMap: {:#?}",
-            reduce_process_hashmap(&mut xiv_processes)
-        );
-        // let mut sorted_processes: Vec<_> = xiv_processes.iter().collect();
-        // sorted_processes
-        //     .sort_by(|a_process, b_process| a_process.memory().cmp(&b_process.memory()));
+        xiv_processes = reduce_process_hashmap(xiv_processes);
+        println!("{:?}\n\n\n", xiv_processes);
 
-        // if let Some(&highest_mem_process) = sorted_processes.last() {
-        //     println!(
-        //         "Process: {}, Memory: {} mb",
-        //         highest_mem_process.name(),
-        //         convert_bytes(highest_mem_process.memory())
-        //     );
         sleep(Duration::from_secs(10)).await;
     }
 }
-// }
 
-fn convert_bytes(_bytes: u64) -> f64 {
-    (_bytes as f64 / 1_048_576.0).round()
-}
+fn reduce_process_hashmap<'a>(_hashmap: HashMap<&'a Pid, &'a Process>) -> HashMap<&Pid, &Process> {
+    let mut new_hashmap: HashMap<&Pid, &Process> = HashMap::new();
 
-fn reduce_process_hashmap(_hashmap: &mut HashMap<&Pid, &Process>) -> &mut HashMap<&Pid, &Process> {
     if let Some((&pid, _)) = _hashmap.iter().max_by_key(|(_, &process)| process.memory()) {
-        let highest_mem_process = _hashmap.remove(&pid).unwrap();
-        _hashmap.clear();
-        _hashmap.insert(&pid, highest_mem_process);
+        new_hashmap.insert(&pid, _hashmap[&pid]);
     }
-    return _hashmap;
+    return new_hashmap;
 }
