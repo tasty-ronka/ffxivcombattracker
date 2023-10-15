@@ -1,2 +1,2 @@
-pub mod linux_memory;
+pub mod memory_ops;
 pub mod operating_system_switch;
